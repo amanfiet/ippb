@@ -10,6 +10,7 @@ public class MobileBankingApplication {
 		SpringApplication.run(MobileBankingApplication.class, args);
 
 		//system.out.prinnnnn
+		System.out.prrintln("Aman Changes");
 	}
 
 }

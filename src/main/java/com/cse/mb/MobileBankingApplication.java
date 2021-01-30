@@ -8,6 +8,8 @@ public class MobileBankingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MobileBankingApplication.class, args);
+
+		//system.out.prinnnnn
 	}
 
 }
